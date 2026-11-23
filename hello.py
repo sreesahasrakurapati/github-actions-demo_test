@@ -1,2 +1,1 @@
-print("Hello, GitHub Actions!")
-print("Workflow triggered automatically!")
+print("Hello, GitHub Actions!"
